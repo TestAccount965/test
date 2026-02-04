@@ -1,1 +1,0 @@
-%ONEDLP_HEAD
